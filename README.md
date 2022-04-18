@@ -34,7 +34,7 @@ Returns a description of the page. Containing several parts:
     }
 ```
 
-### GET /integrations/weather?lat=<lat>&lon=<lon>
+### GET /integration/weather?lat=<lat>&lon=<lon>
 
 Returns weather information for specific coordinates used in pages.
 
