@@ -38,10 +38,6 @@ Returns a description of the page. Containing several parts:
 
 Returns weather information for specific coordinates used in pages.
 
-### Designs
-
-We utilize [Zeplin](https://zeplin.io/) to manage design requests. Please create a free account and send us your email/username so we can grant you access
-
 
 ## Requirements
 
@@ -56,7 +52,7 @@ We utilize [Zeplin](https://zeplin.io/) to manage design requests. Please create
 * Using these components and the Page entity to render the page. You can assume the list with id 0 will always be the pages root.
 
 #### Mockups
-* [Part 1](https://app.zeplin.io/project/610d6d9d1936aa12f64a3a22/screen/612d1250e46281108433cf51)
+* [Part 1](https://www.figma.com/proto/9NtrKC7KAudIqARPU4OzfL/Front-End-Assessment?page-id=0%3A1&node-id=40%3A16&viewport=241%2C48%2C0.73&scaling=scale-down&starting-point-node-id=40%3A16&show-proto-sidebar=1)
 
 ### Part 2
 * Create Button Component
@@ -73,7 +69,8 @@ This page additionally includes variables, as well as 2 new components: button, 
 On completion this page will look like the mockups and the show and hide buttons should function.
 
 #### Mockups
-* [Part 2](https://app.zeplin.io/project/610d6d9d1936aa12f64a3a22/screen/612d1250a7910b16428c423f)
+* [Part 2](https://www.figma.com/proto/9NtrKC7KAudIqARPU4OzfL/Front-End-Assessment?page-id=0%3A1&node-id=78%3A48&viewport=241%2C48%2C0.73&scaling=scale-down&starting-point-node-id=78%3A48&show-proto-sidebar=1)
+
 
 ### Part 3
 * Test previous work against a more complex page
@@ -88,10 +85,10 @@ the more complex page configuration and resolve any issues. Again you can also c
 implementation against the mockups.
 
 #### Mockups
-* [Part 3](https://app.zeplin.io/project/610d6d9d1936aa12f64a3a22/screen/612d1250690879161563f338)
-* [Part 3 - NYC](https://app.zeplin.io/project/610d6d9d1936aa12f64a3a22/screen/612d125010adfb126b0a2b3a)
-* [Part 3 - SF](https://app.zeplin.io/project/610d6d9d1936aa12f64a3a22/screen/612d12505c510a15d11d2359)
-* [Part 3 - CH](https://app.zeplin.io/project/610d6d9d1936aa12f64a3a22/screen/612d125043099410f15afeb8)
+* [Part 3](https://www.figma.com/proto/9NtrKC7KAudIqARPU4OzfL/Front-End-Assessment?page-id=0%3A1&node-id=98%3A79&viewport=241%2C48%2C0.73&scaling=scale-down&starting-point-node-id=98%3A79&show-proto-sidebar=1)
+* [Part 3 - NYC](https://www.figma.com/proto/9NtrKC7KAudIqARPU4OzfL/Front-End-Assessment?page-id=0%3A1&node-id=98%3A111&viewport=241%2C48%2C0.73&scaling=scale-down&starting-point-node-id=98%3A111&show-proto-sidebar=1)
+* [Part 3 - SF](https://www.figma.com/proto/9NtrKC7KAudIqARPU4OzfL/Front-End-Assessment?page-id=0%3A1&node-id=98%3A151&viewport=241%2C48%2C0.73&scaling=scale-down&starting-point-node-id=98%3A151&show-proto-sidebar=1)
+* [Part 3 - CH](https://www.figma.com/proto/9NtrKC7KAudIqARPU4OzfL/Front-End-Assessment?page-id=0%3A1&node-id=98%3A188&viewport=241%2C48%2C0.73&scaling=scale-down&starting-point-node-id=98%3A188&show-proto-sidebar=1)
 
 
 ## Submission
