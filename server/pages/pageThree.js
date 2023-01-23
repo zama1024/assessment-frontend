@@ -56,7 +56,7 @@ module.exports = {
             id: 1,
             type: 'button',
             options: {
-                text: 'Show Time',
+                text: 'Show',
                 variable: 'show_image',
                 value: 'show',
             },
@@ -65,7 +65,7 @@ module.exports = {
             id: 2,
             type: 'button',
             options: {
-                text: 'Hide Time',
+                text: 'Hide',
                 variable: 'show_image',
                 value: 'hide',
             },
