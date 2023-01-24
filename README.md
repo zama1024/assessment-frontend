@@ -4,8 +4,12 @@
 
 In this assessment you will create a front end web application that fetches Page entities from an API and renders them creating create a unique web page for each. In total there are three pages of increasing complexity and each are rendered using shared components. Pages when rendered should match the provided mockups. ([Figma](https://www.figma.com/proto/9NtrKC7KAudIqARPU4OzfL/Front-End-Assessment?page-id=0%3A1&node-id=40%3A16&viewport=241%2C48%2C0.73&scaling=scale-down&starting-point-node-id=40%3A16&show-proto-sidebar=1)).
 
-To get started a react project is included. TypeScript is recommended but you can alternatively use straight JavaScript. CSS modules are supported using the `.module.css` extension alternatively you can use any styling tooling/library you choose. Feel free to add other dependencies as
+To get started a react project is included. TypeScript is strongly recommended for this exercise. CSS modules are supported using the `.module.css` extension alternatively you can use any styling tooling/library you choose. Feel free to add other dependencies as
 necessary.
+
+Some items have been over simplifed for the sake of the assignment. We are looking for general adherence to the mockups, but we understand that based on the information given you might need to make some best guesses (font, pixel size, etc). Internally we use Zeplin to communicate requirements to engineers. 
+
+You reach out with any questions. Any assumptions you make should be documented in the readme under *Developer Notes*. Assume that the person who reviews the exersize is not going to be the same person you interviewed with/asked questions to. 
 
 ### API
 
@@ -126,3 +130,7 @@ Runs API by default this is hosted at http://localhost:3030
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### Developer Notes
+
+* ...
+* ... 
