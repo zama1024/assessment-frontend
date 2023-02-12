@@ -1,0 +1,7 @@
+#components {
+    display: flex;
+    align-items: center;
+    padding: 2.5rem;
+    flex-direction: column;
+    font-family: inherit;
+}
